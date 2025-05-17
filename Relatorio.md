@@ -38,6 +38,7 @@ Aprender a criar um Dockerfile e executar um container com mapeamento de volumes
 - Já no código thread.c a saída é uma série de "Hello World" e "Bye Bye World" simulando uma thread.
 ![Imagem da saída do thread.c](image1.png)
 - Após isso apenas digitei exit para sair do container.
+  
 ![Imagem do exit](image8.png)
 - Minha única dificuldade foi na criação do Dockerfile.
   
